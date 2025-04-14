@@ -29,3 +29,9 @@ Future Weather function:
 History Weather Function:
 ![4d93efcdda52d92434b0722d2e685f78](https://github.com/user-attachments/assets/2eec7a05-9ef6-4d4f-8edf-41cc5239b53e)
 
+Information(forget to add at first):
+![080826be05c201ea18cb9388c26fc439](https://github.com/user-attachments/assets/28e0cd02-3bf1-4ae8-8750-75b7a42db1c8)
+![1c902f668bb3a15c9904e0cc6177f377](https://github.com/user-attachments/assets/2e27e548-5cbe-4401-9078-e4b39a357508)
+
+
+
